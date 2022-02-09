@@ -287,6 +287,7 @@ ul, ol {
   margin-left: 0.125rem;
 }
 .product__rating .star svg {
+  margin-top: -1px;
   fill: var(--primary-color);
 }
 .product__title {
